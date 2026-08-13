@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/raghava2026/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/raghava2026/leetcode-solutions/tree/master/0877-stone-game) |
+| [0894-all-possible-full-binary-trees](https://github.com/raghava2026/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [1140-stone-game-ii](https://github.com/raghava2026/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/raghava2026/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghava2026/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/raghava2026/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0894-all-possible-full-binary-trees](https://github.com/raghava2026/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Game Theory
 |  |
 | ------- |
@@ -122,10 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/raghava2026/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0894-all-possible-full-binary-trees](https://github.com/raghava2026/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/raghava2026/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0894-all-possible-full-binary-trees](https://github.com/raghava2026/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/raghava2026/leetcode-solutions/tree/master/1140-stone-game-ii) |
+## Memoization
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/raghava2026/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
