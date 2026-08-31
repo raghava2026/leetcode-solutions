@@ -212,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raghava2026/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/raghava2026/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
