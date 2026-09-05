@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/raghava2026/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/raghava2026/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2540-minimum-common-value](https://github.com/raghava2026/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/raghava2026/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raghava2026/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raghava2026/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raghava2026/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0541-reverse-string-ii](https://github.com/raghava2026/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [2540-minimum-common-value](https://github.com/raghava2026/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/raghava2026/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghava2026/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/raghava2026/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [2562-find-the-array-concatenation-value](https://github.com/raghava2026/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raghava2026/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
