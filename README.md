@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raghava2026/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0136-single-number](https://github.com/raghava2026/leetcode-solutions/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/raghava2026/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raghava2026/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/raghava2026/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/raghava2026/leetcode-solutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/raghava2026/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/raghava2026/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghava2026/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
