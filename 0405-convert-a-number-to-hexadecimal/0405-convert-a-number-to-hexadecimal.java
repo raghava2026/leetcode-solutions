@@ -11,10 +11,10 @@ class Solution {
     while(num!=0)
     {
         int rem=num&15;
-        sc.insert(0,hex[rem]);
+        sc.append(hex[rem]);
         num>>>=4;
     }
-    return sc.toString();
+    return sc.reverse().toString();
         
     }
 }
