@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/raghava2026/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/raghava2026/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raghava2026/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raghava2026/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raghava2026/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/raghava2026/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/raghava2026/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0389-find-the-difference](https://github.com/raghava2026/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/raghava2026/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raghava2026/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/raghava2026/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/raghava2026/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/raghava2026/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/raghava2026/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2540-minimum-common-value](https://github.com/raghava2026/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghava2026/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/raghava2026/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/raghava2026/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/raghava2026/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/raghava2026/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/raghava2026/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghava2026/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raghava2026/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
