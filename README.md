@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/raghava2026/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raghava2026/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/raghava2026/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0832-flipping-an-image](https://github.com/raghava2026/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/raghava2026/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/raghava2026/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/raghava2026/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0541-reverse-string-ii](https://github.com/raghava2026/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raghava2026/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/raghava2026/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2540-minimum-common-value](https://github.com/raghava2026/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/raghava2026/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghava2026/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/raghava2026/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/raghava2026/leetcode-solutions/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/raghava2026/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/raghava2026/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/raghava2026/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghava2026/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raghava2026/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/raghava2026/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/raghava2026/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2562-find-the-array-concatenation-value](https://github.com/raghava2026/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raghava2026/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raghava2026/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0832-flipping-an-image](https://github.com/raghava2026/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Stack
 |  |
 | ------- |
