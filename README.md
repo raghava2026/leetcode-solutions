@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/raghava2026/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/raghava2026/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/raghava2026/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/raghava2026/leetcode-solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/raghava2026/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raghava2026/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/raghava2026/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/raghava2026/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/raghava2026/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/raghava2026/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/raghava2026/leetcode-solutions/tree/master/0338-counting-bits) |
