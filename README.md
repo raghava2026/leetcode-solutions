@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/raghava2026/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/raghava2026/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raghava2026/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/raghava2026/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2540-minimum-common-value](https://github.com/raghava2026/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/raghava2026/leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raghava2026/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/raghava2026/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/raghava2026/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/raghava2026/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/raghava2026/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghava2026/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raghava2026/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/raghava2026/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/raghava2026/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/raghava2026/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
