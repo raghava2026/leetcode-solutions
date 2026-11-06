@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/raghava2026/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/raghava2026/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raghava2026/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1734-decode-xored-permutation](https://github.com/raghava2026/leetcode-solutions/tree/master/1734-decode-xored-permutation) |
 | [1872-stone-game-viii](https://github.com/raghava2026/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/raghava2026/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raghava2026/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/raghava2026/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/raghava2026/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/raghava2026/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1734-decode-xored-permutation](https://github.com/raghava2026/leetcode-solutions/tree/master/1734-decode-xored-permutation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/raghava2026/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/raghava2026/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raghava2026/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
