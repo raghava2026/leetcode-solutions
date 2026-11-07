@@ -326,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/raghava2026/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/raghava2026/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
